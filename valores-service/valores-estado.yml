@@ -1,0 +1,4 @@
+server:
+  port: 8085
+some:
+  value: valor del estado del servidor

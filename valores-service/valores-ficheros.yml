@@ -1,0 +1,4 @@
+server:
+  port: 8086
+some:
+  value: valor de los ficheros de configuracion

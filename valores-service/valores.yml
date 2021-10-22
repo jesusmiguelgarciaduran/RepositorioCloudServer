@@ -1,0 +1,9 @@
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          url: https://github.com/jesusmiguelgarciaduran/RepositorioCloudServer.git
+          default-label: main
+          search-paths:
+          - '*service'
